@@ -31,7 +31,7 @@
     - [2023년 03월 28일 / 데브시스터즈](https://www.meetup.com/awskrug/events/292003339)
   - **주제**
     - 발표 1
-      - [`황재영(데브시스터즈)`]()님 - [RDS online alter부터 CPU 100% 장애까지](./keynotes/RDS_online_alter부터_CPU_100%_장애까지.pdf)
+      - [`황재영(데브시스터즈)`]()님 - [RDS online alter부터 CPU 100% 장애까지](./keynotes/RDS_online_alter부터_CPU_100%25_장애까지.pdf)
     - 발표 2
       - [`이상유(데브시스터즈)`]()님 - [데브시스터즈 사내방송 인프라 제작기](./keynotes/데브시스터즈_사내방송_인프라_제작기.pptx.pdf)
 
