@@ -38,9 +38,11 @@
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/1/d/9/highres_511680473.webp" width="350"/>
+  <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/4/2/7/highres_511681063.webp" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/4/2/8/highres_511681064.webp" width="350"/>
+  <br />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/1/d/8/highres_511680472.webp" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/4/0/3/highres_511681027.webp" width="350"/>
