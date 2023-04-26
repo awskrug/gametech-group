@@ -56,4 +56,9 @@
   - **주제**
     - 발표 
       - [`이기훈(Imply)`]()님 - [Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS](./keynotes/Imply_게임테크_밋업_2023-04-25.pdf)
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/3/b/d/highres_512381917.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/3/b/f/highres_512381919.webp" width="350"/>
+  <br />
 </details>
