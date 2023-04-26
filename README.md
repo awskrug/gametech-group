@@ -43,7 +43,7 @@
     - [2023년 04월 25일 / 메가존클라우드](https://www.meetup.com/ko-KR/awskrug/events/292744560/)
   - **주제**
     - 발표 
-      - [`이기훈(Imply)`]()님 - [Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS](./keynotes/Imply%25게임테크%25밋업%252023-04-25.pdf)
+      - [`이기훈(Imply)`]()님 - [Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS](./keynotes/Imply 게임테크 밋업 2023-04-25.pdf)
 
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
