@@ -35,6 +35,16 @@
     - 발표 2
       - [`이상유(데브시스터즈)`]()님 - [데브시스터즈 사내방송 인프라 제작기](./keynotes/데브시스터즈_사내방송_인프라_제작기.pptx.pdf)
 
+<details>
+  <summary>2nd meetup - <b>Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS</b></summary>
+
+  ### `2nd meetup`
+  - **주최**
+    - [2023년 04월 25일 / 메가존클라우드](https://www.meetup.com/ko-KR/awskrug/events/292744560/)
+  - **주제**
+    - 발표 
+      - [`이기훈(Imply)`]()님 - [Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS](./keynotes/Imply%25게임테크%25밋업%252023-04-25.pdf)
+
 
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/1/d/9/highres_511680473.webp" width="350"/>
