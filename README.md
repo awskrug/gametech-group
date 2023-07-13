@@ -37,6 +37,7 @@
   <img src="https://secure.meetupstatic.com/photos/event/2/b/2/0/highres_514031040.webp" width="350"/>
   <img src="https://secure.meetupstatic.com/photos/event/2/b/1/e/highres_514031038.webp" width="350"/>
   <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://secure.meetupstatic.com/photos/event/2/b/1/f/highres_514031039.webp" width="350"/>
 </details>
 
