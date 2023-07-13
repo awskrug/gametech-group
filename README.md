@@ -21,7 +21,40 @@
 
 # Meetups
 
-## 2023년  
+## 2023년
+
+<details>
+  <summary>3rd meetup - <b>GDC 2023 참관기 - 게임 산업 비즈니스/기술 트렌드 및 참석후기</b></summary>
+
+  ### `3rd meetup`
+  - **주최**
+    - [2023년 06월 28일 / 데브시스터즈](https://www.meetup.com/ko-KR/awskrug/events/293927671/)
+  - **주제**
+    - 발표 
+      - [`김현민(hyunmin)`](https://www.meetup.com/ko-KR/awskrug/members/194461433/profile/)님 - GDC 2023 참관기 - 게임 산업 비즈니스/기술 트렌드 및 참석후기
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/2/b/2/0/highres_514031040.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/b/1/e/highres_514031038.webp" width="350"/>
+  <br />
+  <img src="https://secure.meetupstatic.com/photos/event/2/b/1/f/highres_514031039.webp" width="350"/>
+</details>
+
+<details>
+  <summary>2nd meetup - <b>Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS</b></summary>
+
+  ### `2nd meetup`
+  - **주최**
+    - [2023년 04월 25일 / 메가존클라우드](https://www.meetup.com/ko-KR/awskrug/events/292744560/)
+  - **주제**
+    - 발표 
+      - [`이기훈(Imply)`]()님 - [Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS](./keynotes/Imply_게임테크_밋업_2023-04-25.pdf)
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/3/b/d/highres_512381917.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/3/b/f/highres_512381919.webp" width="350"/>
+  <br />
+</details>
 
 <details>
   <summary>1st meetup - <b>RDS online alter부터 CPU 100% 장애까지 & 데브시스터즈 사내방송 인프라 제작기</b></summary>
@@ -47,18 +80,4 @@
   <img src="https://secure.meetupstatic.com/photos/event/4/0/3/highres_511681027.webp" width="350"/>
 </details>
 
-<details>
-  <summary>2nd meetup - <b>Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS</b></summary>
 
-  ### `2nd meetup`
-  - **주최**
-    - [2023년 04월 25일 / 메가존클라우드](https://www.meetup.com/ko-KR/awskrug/events/292744560/)
-  - **주제**
-    - 발표 
-      - [`이기훈(Imply)`]()님 - [Imply로 구현하는 게임 플랫폼 실시간 360 분석 on AWS](./keynotes/Imply_게임테크_밋업_2023-04-25.pdf)
-  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://secure.meetupstatic.com/photos/event/a/3/b/d/highres_512381917.webp" width="350"/>
-  <img src="https://secure.meetupstatic.com/photos/event/a/3/b/f/highres_512381919.webp" width="350"/>
-  <br />
-</details>
