@@ -24,6 +24,29 @@
 ## 2023년
 
 <details>
+  <summary>4th meetup - <b>Windows + D3D 게임을 macOS/iOS + metal로 포팅하기</b></summary>
+
+  ### `4th meetup`
+  - **주최**
+    - [2023년 08월 30일 / 데브시스터즈](https://www.meetup.com/awskrug/events/295065329/)
+  - **주제**
+    - 발표 
+      - [`유영천`](https://www.youtube.com/@megayuchi)님 - [Windows + D3D 게임을 macOS/iOS + metal로 포팅하기](https://www.youtube.com/watch?v=YzywKct1yHU)
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/c/4/8/3/highres_515510307.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/c/4/8/4/highres_515510308.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/c/4/8/6/highres_515510310.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/c/4/8/8/highres_515510312.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/c/4/8/9/highres_515510313.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/c/4/8/a/highres_515510314.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>3rd meetup - <b>GDC 2023 참관기 - 게임 산업 비즈니스/기술 트렌드 및 참석후기</b></summary>
 
   ### `3rd meetup`
