@@ -24,6 +24,25 @@
 ## 2023년
 
 <details>
+  <summary>5th meetup - <b>온라인 게임 사대 명검에 관하여</b></summary>
+
+  ### `5th meetup`
+  - **주최**
+    - [2023년 10월 25일 / 데브시스터즈](https://www.meetup.com/ko-KR/awskrug/events/296552318/)
+  - **주제**
+    - 발표 
+      - [`윤평호`](AWS Community Builder)님 - [온라인 게임 사대 명검에 관하여](https://docs.google.com/presentation/d/e/2PACX-1vTyZi_duLRsw68XqLtIrWZ8SbWPoIeTBolk1T7-QggbsATJvbZawuXsJLQN2g1DzvxX_dUw7er_u_39/pub?start=false&slide=id.p)
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/f/4/d/highres_516368013.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/f/e/d/highres_516825037.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/f/e/c/highres_516825036.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/f/e/b/highres_516825035.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>4th meetup - <b>Windows + D3D 게임을 macOS/iOS + metal로 포팅하기</b></summary>
 
   ### `4th meetup`
