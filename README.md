@@ -21,6 +21,29 @@
 
 # Meetups
 
+## 2024년
+
+<details>
+  <summary>6th meetup - <b>고도 엔진 입문 (Godot Engine)</b></summary>
+
+  ### `6th meetup`
+  - **주최**
+    - [2024년 03월 07일 / 센터필드 EAST 집현전](https://www.meetup.com/ko-KR/awskrug/events/299476151/)
+  - **주제**
+    - 발표 
+      - [`김성완`](https://www.linkedin.com/in/%EC%84%B1%EC%99%84-%EA%B9%80-9aa58b75)님 - 고도 엔진 입문 (Godot Engine)
+    - 라이트닝 토크
+      - 최예찬 (!CyberApex)님 - 나는 도대체 고도로 뭘 만들었는가?
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/f/3/highres_519906643.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/f/0/highres_519906640.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/f/2/highres_519906642.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/1/9/e/e/highres_519906638.jpeg" width="350"/>
+</details>
+
 ## 2023년
 
 <details>
