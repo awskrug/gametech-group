@@ -24,6 +24,34 @@
 ## 2024년
 
 <details>
+  <summary>7th meetup - <b>GDC 2024 re:Cap Session & 게임사를 위한 생성형AI 활용 가이드</b></summary>
+
+  ### `7th meetup`
+  - **주최**
+    - [2024년 06월 04일 / 센터필드 EAST 화랑도](https://www.meetup.com/ko-KR/awskrug/events/301151895/)
+  - **주제**
+    - 발표 
+      - `한정호`(AWS Solutions Architect, Gaming)님 - GDC 2024 re:Cap Session & 게임사를 위한 생성형AI 활용 가이드
+        > 발표장표 중 GDC 자료는 유료공개 컨텐츠가 다수 포함되어 있어 비공개입니다. 대신 발표 내용 관련 링크들을 아래에 첨부드립니다.
+        - [AWS 기반 동적 NPC(논플레이어 캐릭터) 대화 지침](https://aws.amazon.com/ko/solutions/guidance/dynamic-non-player-character-dialogue-on-aws/)
+        - [AWS for Games Blog: AWS for Games debuts Guide to Generative AI for Game Developers, and more at GDC 2024](https://aws.amazon.com/ko/blogs/gametech/aws-for-games-debuts-guide-to-generative-ai-for-game-developers-and-more-at-gdc-2024/)
+        - [Amazon Bedrock Knowledge Bases 정식 출시 – 완전관리형 RAG 경험 제공](https://aws.amazon.com/ko/blogs/korea/knowledge-bases-now-delivers-fully-managed-rag-experience-in-amazon-bedrock/)
+        - [aws-samples: Moderate audio and text chats using AWS AI services and LLMs](https://github.com/aws-samples/aws-genai-audio-text-chat-moderation/tree/main)
+        - [Amazon GameLift Anywhere – 자체 인프라에서 게임 서버 실행 기능 출시](https://aws.amazon.com/ko/blogs/korea/introducing-amazon-gamelift-anywhere-run-your-game-servers-on-your-own-infrastructure/)
+        - [GameLift 로 시작하는 Full Stack Game](https://catalog.us-east-1.prod.workshops.aws/workshops/787df455-42b0-4437-804f-a4d62e952633/ko-KR)
+
+
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/e/3/c/2/highres_521518306.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/e/0/9/highres_521531785.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/e/3/c/6/highres_521518310.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/e/0/a/highres_521531786.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>6th meetup - <b>고도 엔진 입문 (Godot Engine)</b></summary>
 
   ### `6th meetup`
