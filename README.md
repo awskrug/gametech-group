@@ -24,6 +24,28 @@
 ## 2024년
 
 <details>
+  <summary>8th meetup - <b>생성AI와 게임의 미래</b></summary>
+
+  ### `8th meetup`
+  - **주최**
+    - [2024년 10월 23일 / 센터필드 EAST 국자감](https://www.meetup.com/ko-KR/awskrug/events/303519819)
+  - **주제**
+    - 발표 
+      - [`김성완`](https://www.linkedin.com/in/%EC%84%B1%EC%99%84-%EA%B9%80-9aa58b75)님 - [생성AI와 게임의 미래](./keynotes/생성AI와_게임의_미래_AWSKRUG.pdf)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/6/b/a/highres_524262682.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/6/b/d/highres_524262685.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/6/b/9/highres_524262681.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/a/6/b/c/highres_524262684.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/a/6/b/b/highres_524262683.jpeg" width="350"/>
+</details>
+
+<details>
   <summary>7th meetup - <b>GDC 2024 re:Cap Session & 게임사를 위한 생성형AI 활용 가이드</b></summary>
 
   ### `7th meetup`
