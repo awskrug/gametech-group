@@ -21,6 +21,26 @@
 
 # Meetups
 
+## 2025년
+
+<details>
+  <summary>9th meetup - <b>핸즈온 워크샵 - AWS Game Backend Framework</b></summary>
+
+  ### `9th meetup`
+  - **주최**
+    - [2025년 07월 23일 / 센터필드 EAST 101,102호](https://www.meetup.com/awskrug/events/308924545/)
+  - **주제**
+    - [<b>핸즈온 워크샵</b> - `AWS Game Backend Framework`](https://catalog.us-east-1.prod.workshops.aws/workshops/086bb355-4fdc-4e63-8ca7-af7cfc45d4f2/ko-KR)
+      - [Unity 테스트 cheatsheet](https://www.notion.so/geoseong/Unity-2265d45d0aa9804f85baf453fd146c49)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/2/f/3/1/highres_529332081.jpeg" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/2/f/3/0/highres_529332080.jpeg" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/2/f/3/2/highres_529332082.jpeg" width="350"/>
+</details>
+
 ## 2024년
 
 <details>
