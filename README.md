@@ -21,6 +21,33 @@
 
 # Meetups
 
+## 2026년
+
+<details>
+  <summary>10th meetup - <b>re:invent 2025에서의 주요 게임 고객 사례들과 게임을 위한 주요 서비스 업데이트 소개</b></summary>
+
+  ### `10th meetup`
+  - **주최**
+    - [2026년 02월 05일 / 센터필드 EAST 300호](https://www.meetup.com/ko-kr/awskrug/events/313046924)
+  - **주제**
+    - 라이트닝 토크
+      - [`박태성`](https://www.meetup.com/ko-KR/members/184515293/)님 - [re:Invent 2025 커뮤니티 활동 후기](https://docs.google.com/presentation/d/1sGDLyf1BwA7AgnIr7c6Z1dX80VaIzHntGWWak9Xtgt4/edit?usp=sharing)
+      - [`윤평호`](https://www.meetup.com/ko-KR/members/182150572/)님 - [re:Invent 참가 후기]()
+    - 발표
+      - [`김현동`]()님 - [re:invent 2025에서의 주요 게임 고객 사례들과 게임을 위한 주요 서비스 업데이트 소개](./keynotes/2025_reinvent_recap_gaming_20260201.pdf)
+
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/b/2/c/highres_532595628.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/b/4/3/3/highres_532606131.webp" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/8/b/2/e/highres_532595630.webp" width="350"/>
+  <img src="https://secure.meetupstatic.com/photos/event/8/b/3/1/highres_532595633.webp" width="350"/>
+  <br />
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://secure.meetupstatic.com/photos/event/b/4/3/1/highres_532606129.webp" width="350"/>
+</details>
+
 ## 2025년
 
 <details>
